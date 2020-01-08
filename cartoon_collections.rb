@@ -8,7 +8,7 @@ def summon_captain_planet(array)
 end
 
 def long_planeteer_calls(array)# code an argument here
-  array.any? {|i| i.count>4}
+  array.any? {|i| i.count > 4}
   
 end
 
